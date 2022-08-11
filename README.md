@@ -20,4 +20,4 @@ See [micronaut-rest-example](https://github.com/pavelfomin/micronaut-rest-exampl
 ### Change maven version
 `mvn -N io.takari:maven:wrapper -Dmaven=3.8.4`
 
-### TODO: add Dockerfile
+### TODO: add Dockerfile and Jenkinfile
